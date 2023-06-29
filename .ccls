@@ -1,0 +1,7 @@
+g++
+%hpp %cpp 
+-std=c++17
+
+-Iinclude/Engine
+-Ilib/imgui
+-Ilib/imgui/backends
